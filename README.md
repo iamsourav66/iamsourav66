@@ -1,10 +1,5 @@
 ### Hey there I'm SOURAV 👋
 
-<!--
-**iamsourav66/iamsourav66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my problem solving skills .
 - 🌱 I’m currently learning Python & DSA ...
 - 👯 I’m looking to collaborate on Hackathon and Synap .
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me .
 - 😄 Pronouns:He/Him/His .
 - ⚡ Fun fact:I'm a painter, a footballer, a dreamer  .
--->
