@@ -16,4 +16,4 @@
 
 [twitter]: https://twitter.com/iam_Breach
 [instagram]: https://instagram.com/iamsourav_01
-[linkedin]: https://linkedin.com/in/sourav-rakshit
+[linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
