@@ -18,4 +18,4 @@
  [twitter]: https://twitter.com/iam_Breach
  [instagram]: https://instagram.com/iamsourav_01
  [linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
-<img align="right" alt="GIF" height="500px" src="https://github.com/Ask-Sourav/Ask-Sourav/blob/master/gifs/animation_500_ke4cgngp.gif" />
+
