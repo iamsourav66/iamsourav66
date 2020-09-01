@@ -10,12 +10,11 @@
 - ⚡ Fun fact:I'm a painter, a footballer, a dreamer🤵✨  .
 ### Connect with me:
 
-[![gmail badge](https://img.shields.io/badge/Sourav-F9A7B0?style=flat&logo=gmail)](rakshitsourav66@gmail.com)
-[<img align="left" alt="sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sourav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sourav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="left" alt="sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ [<img align="left" alt="sourav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="sourav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/iam_Breach
-[instagram]: https://instagram.com/iamsourav_01
-[linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
+ [twitter]: https://twitter.com/iam_Breach
+ [instagram]: https://instagram.com/iamsourav_01
+ [linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
