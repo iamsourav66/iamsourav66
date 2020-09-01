@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about anything and I'll try my best to help you in that✌ ...
 - 😄 Pronouns:He/Him 🤵.
-- ⚡ Fun fact:I'm a painter, a footballer, a dreamer🤵✨  .
+- ⚡ Fun fact:I'm a Painter, a Footballer, a Dreamer and Achiever🤵✨  .
 ### Connect with me:
 
  [<img align="left" alt="sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
