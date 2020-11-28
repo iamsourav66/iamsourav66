@@ -14,7 +14,7 @@
  [<img align="left" alt="sourav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
- [twitter]: https://twitter.com/iam_Breach
+ [twitter]: https://twitter.com/iam_sourav01
  [instagram]: https://instagram.com/iamsourav_01
  [linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
 
