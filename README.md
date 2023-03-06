@@ -21,6 +21,6 @@
   
   
  [twitter]: https://twitter.com/iam_sourav01
- [instagram]: https://instagram.com/iamsourav_01
+ [instagram]: https://instagram.com/iam.raxit
  [linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
 
