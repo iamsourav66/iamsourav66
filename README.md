@@ -24,3 +24,4 @@
  [instagram]: https://instagram.com/iamsourav_01
  [linkedin]: https://linkedin.com/in/sourav-rakshit-40b605185
 
+![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=iamsourav66&show_icons=true&hide_border=true)
